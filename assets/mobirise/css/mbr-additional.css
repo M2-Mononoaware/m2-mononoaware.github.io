@@ -6591,3 +6591,15 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-reK5j4xWIh {
+  background: #ffffff;
+}
+.cid-reK5j4xWIh .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reK5j4xWIh .video-block {
+    width: 100% !important;
+  }
+}
